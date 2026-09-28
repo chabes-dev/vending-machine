@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2026-09-28-salao-studio-bella",
+    "business_name": "Studio Bella Cabelos",
+    "category": "salao",
+    "neighbourhood": "Vila Madalena",
+    "address": "Rua Fictícia, 123 - Vila Madalena, São Paulo - SP",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Studio+Bella+Cabelos+Vila+Madalena",
+    "whatsapp": "+5511900000001",
+    "instagram_url": "https://www.instagram.com/example_studiobella",
+    "website": null,
+    "source_of_whatsapp": "google",
+    "week": "2026-09-28",
+    "messages": [
+      "Oi! Tudo bem? Vi o Studio Bella no Google e curti muito o trabalho de vocês 😊 Posso te mandar uma ideia rápida pra trazer mais clientes pro salão?",
+      "Basicamente eu ajudo salões a lotar a agenda nos dias fracos, sem precisar dar desconto. Leva uns 10 min pra te explicar, topa uma call essa semana?",
+      "Oi, passando só pra ver se você viu minha mensagem! Se não for o momento, sem problema nenhum 🙌"
+    ],
+    "status": "new",
+    "status_history": [{ "status": "new", "at": "2026-09-28T09:00:00.000Z" }],
+    "notes": ""
+  },
+  {
+    "id": "2026-09-28-pet-patinhas",
+    "business_name": "Pet Shop Patinhas Felizes",
+    "category": "pet",
+    "neighbourhood": "Pinheiros",
+    "address": "Av. Exemplo, 456 - Pinheiros, São Paulo - SP",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pet+Shop+Patinhas+Felizes+Pinheiros",
+    "whatsapp": null,
+    "instagram_url": "https://www.instagram.com/example_patinhasfelizes",
+    "website": null,
+    "source_of_whatsapp": "not_found",
+    "week": "2026-09-28",
+    "messages": [
+      "Oi! Tudo certo? Achei o Patinhas Felizes aqui no bairro e adorei o perfil de vocês 🐶 Posso te mandar uma ideia rápida pra encher a agenda de banho e tosa?",
+      "Eu ajudo pet shops a ter clientes recorrentes todo mês, tipo assinatura de banho. Rola uma call de 10 min essa semana?",
+      "Oi, só passando pra ver se chegou minha mensagem! Qualquer coisa tô por aqui 🐾"
+    ],
+    "status": "new",
+    "status_history": [{ "status": "new", "at": "2026-09-28T09:00:00.000Z" }],
+    "notes": ""
+  }
+]
