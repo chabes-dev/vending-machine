@@ -42,7 +42,7 @@
       "Eu ajudo pet shops a ter clientes recorrentes todo mês, tipo assinatura de banho. Rola uma call de 10 min essa semana?",
       "Oi, só passando pra ver se chegou minha mensagem! Qualquer coisa tô por aqui 🐾"
     ],
-    "status": "call_booked",
+    "status": "client",
     "status_history": [
       {
         "status": "new",
@@ -51,6 +51,10 @@
       {
         "status": "call_booked",
         "at": "2026-09-29T16:37:48.187Z"
+      },
+      {
+        "status": "client",
+        "at": "2026-09-29T16:37:49.584Z"
       }
     ],
     "notes": ""
