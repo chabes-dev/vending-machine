@@ -4,6 +4,7 @@ Página privada, mobile-first, para trabalhar a lista semanal de leads (salões 
 
 - **Next.js 16 (App Router)** na Vercel
 - **Dados:** `data/leads.json` neste repo é a única fonte de verdade
+- **Produção:** https://prospeccao-xi.vercel.app (projeto Vercel `prospeccao`, branch `main`)
 - **Auth:** uma senha (`APP_PASSWORD`), cookie httpOnly de 30 dias
 
 ## Como funciona
